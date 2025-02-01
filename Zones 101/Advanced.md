@@ -3,14 +3,14 @@
 ## 방법 1
 
 **티어가 높은** 무기들을 중심으로 조합하기
-[링크](https://x.com/PinkPuffyPastry/status/1842952877108756626) 참조
+[링크](https://x.com/PinkPuffyPastry/status/1842952877108756626) 참고
 
 -
 
 ## 방법 2
 
 프로 팀이 쓰는 조합을 수정하기
-[링크](https://bsky.app/profile/pinkpuffypastry.bsky.social/post/3l5whrxj6iv26) 참조
+[링크](https://bsky.app/profile/pinkpuffypastry.bsky.social/post/3l5whrxj6iv26) 참고
 
 -
 
@@ -28,4 +28,6 @@
 
 ![기어](./assets/abilities-kr.png)
 
-[링크](https://docs.google.com/document/d/1rXObdEACPItTrp2CMLoPr1WbHerHFiOWIjArmmMDdoE/edit?usp=sharing) 참조
+[기어](./Abilities.md) 참고
+
+[원본](https://docs.google.com/document/d/1rXObdEACPItTrp2CMLoPr1WbHerHFiOWIjArmmMDdoE/edit?usp=sharing)
