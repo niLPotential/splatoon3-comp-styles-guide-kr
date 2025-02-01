@@ -1,4 +1,4 @@
-![기어](./assets/abilities.png)
+![기어](./assets/abilities-kr.png)
 
 ## 필수
 
