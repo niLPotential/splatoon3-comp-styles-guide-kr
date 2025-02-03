@@ -3,11 +3,8 @@
 ![더블 중거리](./assets/roles.png)
 
 - [조합 예시](./Sample.md)
-
 - [운영](./Macro.md)
-
 - [변주](./Variations.md)
-
 - [상성](./Matchups.md)
 
 ## 자료
