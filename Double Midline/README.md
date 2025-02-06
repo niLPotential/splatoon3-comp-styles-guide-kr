@@ -14,7 +14,10 @@
 
 - [조합 예시](./Sample.md)
 - [운영](./Macro.md)
-- [변주](./Variations.md)
+- 변주
+  - [연필 자리](./Pen.md)
+  - [중거리 자리](./Midline.md)
+  - [샤프 자리](./vSplash.md)
 - [상성](./Matchups.md)
 
 ## 자료
