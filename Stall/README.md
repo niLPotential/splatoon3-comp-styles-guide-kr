@@ -13,6 +13,10 @@
 - [조합 예시](Sample.md)
 - [운영](./Macro.md)
 - 변주
+  - [연필 자리](./Pen.md)
+  - [샤프네오 자리](./nSplash.md)
+  - [52갤 자리](./52.md)
+  - [롤러 자리](./Roller.md)
 - [상성](./Matchups.md)
 
 ## 자료
