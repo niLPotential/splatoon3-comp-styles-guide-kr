@@ -73,3 +73,8 @@
   - [자료](./Stall/README.md#자료)
     - [정석](./Stall/README.md#정석)
     - [변주](./Stall/README.md#변주)
+- 전 룰 조합 짜기
+  - [랭크 타워](./All%20Modes%20101/Tower.md)
+  - [랭크 피시 배틀](./All%20Modes%20101/Rain.md)
+  - [랭크 바지락](./All%20Modes%20101/Clams.md)
+  - [영역 배틀](./All%20Modes%20101/Turf.md)
